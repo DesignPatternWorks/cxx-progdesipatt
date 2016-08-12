@@ -1,9 +1,7 @@
 # cxx-progdesipatt
 
 - Program design pattern by C++ 程序设计模式 C++ 实现:
-```
-src/cxx/
-```
+[**src/**](https://github.com/iamyuiwong/cxx-progdesipatt/tree/master/src)
 
 > [文档【cxx-progdesipatt-doc】](http://git.oschina.net/yuiwong/cxx-progdesipatt-doc)
 
