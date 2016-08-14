@@ -28,6 +28,7 @@
 
 - Template 模式
 - Strategy 模式
+- State 模式
 
 ---
 
