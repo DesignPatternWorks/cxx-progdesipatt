@@ -44,6 +44,10 @@ int main(void)
 	subject->notify();
 	obMem.get()->subject()->setState("new 2b");
 	subject->notify();
+	oaMem.get()->subject()->setState("new 3a");
+	oaMem.get()->subject()->notify();
+	obMem.get()->subject()->setState("new 3b");
+	oaMem.get()->subject()->notify();
 	}
 	return 0;
 }
