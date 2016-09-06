@@ -30,6 +30,7 @@
 - Strategy 模式
 - State 模式
 - Observer 模式
+- Memento 模式
 
 ---
 
